@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pi3VwvAia1TvRyXkZ/pyWRRqMhMFL2gTVR/jmQm2QxI8Z+1/Gb8k36TAjh3ajagEiBbQNByKSXJyxa+nHs0ekw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Johanna\\Desktop\\Repo C#\\myproject\\UnitTestingExercise\\PalindromeExercise\\PalindromeExercise\\PalindromeExercise\\PalindromeExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Johanna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Johanna\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Johanna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Johanna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
